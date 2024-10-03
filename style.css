@@ -38,6 +38,7 @@
 
 .card:hover{
   box-shadow: 0.3rem 0.3rem 0.3rem #222, -0.3rem 0 0.3rem #222;
+  /* box-shadow: 0.9rem 0.9rem 0.9rem #222, -0.9rem 0 0.9rem #222; */
 }
 
 .card-title {
