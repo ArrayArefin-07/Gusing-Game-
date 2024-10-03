@@ -36,5 +36,11 @@
 }
 
 .card:hover{
-  
+  box-shadow: 0.3rem 0.3rem 0.3rem #222, -0.3rem 0 0.3rem #222;
+}
+
+.card-title {
+  text-align: center;
+  color: white;
+  margin-bottom: 1rem;
 }
