@@ -82,3 +82,13 @@ input {
 .btn:hover {
   background-color: azure;
 }
+
+
+p {
+  text-align: center;
+}
+
+.large-text {
+  font-size:  1.5rem;
+  color: bisque;
+}
